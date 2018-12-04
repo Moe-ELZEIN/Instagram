@@ -1,0 +1,107 @@
+main{
+  position: absolute;
+}
+
+.LeftBox {
+  height: 600px;
+  width:420px;
+  display: inline-block;
+  vertical-align: top;
+}
+.RightBox {
+  border: solid lightgrey 1px;
+  height: 600px;
+  width:420px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
+
+.TopSentence {
+  color: grey;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: cursive;
+  text-align: center;
+}
+
+.LogIn {
+  color: white;
+  font-weight: bold;
+  font-family: cursive;
+  width: 75%;
+  hieght: 50px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #3B5998;
+  border-radius: 5px;
+}
+
+.Or {
+  color: grey;
+  font-weight: bold;
+  font-family: cursive;
+  text-align: center;
+}
+
+li {
+  border: 1px solid lightgrey;
+  width: 75%;
+  margin-bottom 5px;
+  font-size: 13px;
+  color: lightgrey
+  text
+}
+
+.SignUp {
+  color: white;
+  font-weight: bold;
+  font-family: cursive;
+  width: 75%;
+  hieght: 50px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #3B5998;
+}
+
+.Agree {
+  color: grey;
+  font-size: 13px;
+  font-family: cursive;
+  text-align: center;
+}
+
+.Privacy {
+  color: grey;
+  font-size: 13px;
+  font-weight: bold;
+  font-family: cursive;
+  text-align: center;
+}
+
+.Account {
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.GetApp {
+  color: black;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: cursive;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-family: cursive;
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+}
